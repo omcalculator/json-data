@@ -16,13 +16,13 @@
         "Prompt engineering",
         "Research"
       ],
-      "Perks/Benefits": "Career development",
+      "Perks": ["Career development"],
       "Country": "Remote",
-      "Type": "Full Time",
+      "Type": ["Full Time"],
       "Experience": "Mid-level / Intermediate",
       "Salary": "USD 100K - 200K",
       "Regions": "Remote",
-      "Location": null,
+      "Location": "",
       "Apply URL": "https://www.linkedin.com/jobs/view/3820022479/"
     },
     {
@@ -44,9 +44,9 @@
         "Python",
         "RDBMS"
       ],
-      "Perks/Benefits": "Career development, Competitive pay, Flex hours, Startup environment",
+      "Perks": ["Career development", "Competitive pay", "Flex hours", "Startup environment"],
       "Country": "Germany",
-      "Type": "Full Time, Contract",
+      "Type": ["Full Time", "Contract"],
       "Experience": "Mid-level / Intermediate",
       "Salary": "EUR 60K - 117K",
       "Regions": "Europe",
