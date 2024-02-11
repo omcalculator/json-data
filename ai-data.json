@@ -19,8 +19,8 @@
       "Perks": ["Career development"],
       "Country": "Remote",
       "Type": ["Full Time"],
-      "Experience": ["Mid-level / Intermediate"],
-      "Salary": ["USD 100K - 200K"],
+      "Experience": "Mid-level / Intermediate",
+      "Salary": "USD 100K - 200K",
       "Regions": "Remote",
       "Location": "",
       "Apply URL": "https://www.linkedin.com/jobs/view/3820022479/"
@@ -47,8 +47,8 @@
       "Perks": ["Career development", "Competitive pay", "Flex hours", "Startup environment"],
       "Country": "Germany",
       "Type": ["Full Time", "Contract"],
-      "Experience": ["Mid-level / Intermediate"],
-      "Salary": ["EUR 60K - 117K"],
+      "Experience": "Mid-level / Intermediate",
+      "Salary": "EUR 60K - 117K",
       "Regions": "Europe",
       "Location": "Garching near Munich",
       "Apply URL": "https://recruitment.eso.org/jobs/2024_0005"
