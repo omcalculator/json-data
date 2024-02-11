@@ -1,0 +1,57 @@
+{
+  "jobs": [
+    {
+      "Title": "NLP & Generative AI - Machine Learning Engineer",
+      "Company Name": "Zacks Investment Research",
+      "Company Logo": "https://ai-jobs.net/media/cache/86/44/86441d5e24b24fc173d11e3e33cb57f1.jpg",
+      "Tags": [
+        "Chatbots",
+        "Computer Science",
+        "Generative AI",
+        "LLMs",
+        "Machine Learning",
+        "MVP",
+        "NLP",
+        "Open Source",
+        "Prompt engineering",
+        "Research"
+      ],
+      "Perks/Benefits": "Career development",
+      "Country": "Remote",
+      "Type": "Full Time",
+      "Experience": "Mid-level / Intermediate",
+      "Salary": "USD 100K - 200K",
+      "Regions": "Remote",
+      "Location": null,
+      "Apply URL": "https://www.linkedin.com/jobs/view/3820022479/"
+    },
+    {
+      "Title": "Data Engineer",
+      "Company Name": "European Southern Observatory",
+      "Company Logo": "https://ai-jobs.net/media/cache/d8/ce/d8ce238831315d942d2594e8de4fc7f8.jpg",
+      "Tags": [
+        "Architecture",
+        "Computer Science",
+        "Dataflow",
+        "Data governance",
+        "Data management",
+        "Data pipelines",
+        "Data quality",
+        "ELT",
+        "Engineering ETL",
+        "NoSQL",
+        "Pipelines",
+        "Python",
+        "RDBMS"
+      ],
+      "Perks/Benefits": "Career development, Competitive pay, Flex hours, Startup environment",
+      "Country": "Germany",
+      "Type": "Full Time, Contract",
+      "Experience": "Mid-level / Intermediate",
+      "Salary": "EUR 60K - 117K",
+      "Regions": "Europe",
+      "Location": "Garching near Munich",
+      "Apply URL": "https://recruitment.eso.org/jobs/2024_0005"
+    }
+  ]
+}
