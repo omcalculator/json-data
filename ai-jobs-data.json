@@ -1,7 +1,27 @@
 {
   "jobs":[
     {
-      
-    }
+        "id": "104108001",
+        "title": "Data Analyst 1",
+        "description": " ",
+        "location": "New York, NY",
+        "salary": "$80,000 - $90,000",
+        "type": "Full-time",
+        "active": true,
+        "expiration_date": "2024-06-31",
+        "company": {
+          "name": "Data Insights Co.",
+          "logo": "https://ai-jobs.net/media/cache/40/c1/40c199fef5922dcf41a58216364bfc00.jpg",
+          "website": "https://www.datainsightsco.com",
+          "social_media": {
+            "twitter": "https://twitter.com/datainsightsco",
+            "linkedin": "https://www.linkedin.com/company/datainsightsco"
+          }
+        },
+        "posted_date": "2024-02-15",
+        "experience_level": "Entry level",
+        "perks": ["Remote work option", "Professional development stipend"],
+        "tags": ["Data Analysis", "Statistics", "SQL"]
+      },
   ]
 }
