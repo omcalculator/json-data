@@ -1,137 +1,57 @@
 {
-  "jobs":[
+  "jobs": [
     {
-        "id": "104108000",
-        "title": "NLP & Generative AI - Machine Learning Engineer",
-        "location": "Anywhere",
-        "country": "Any",
-        "salary": "USD 100K - 200K *",
-        "type": ["Remote", "Full-time"],
-        "active": false,
-        "expiration_date": "2024-03-02",
-        "company": {
-          "name": "Zacks Investment Research",
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzaRnB-9PAbTCirl6HM4NqwmWP9xZVRfq53xCrRXQkfzb4NmLgFjvopwlR7DLU6FL7jBRO2RvoU5sDh4WfDl51sHA7wvZ9maxvT7nGykJL6glJQAJVXDIgFW3Swc4edDo9og9nR9TlbWwFUghveLCQVranJPqj5jeISLw8K9ZmqxtcDnIXWPQns6EtSFHA/s1600/Zacks%20Investment%20Research.jpg"
-        },
-        "posted_date": "2024-02-24",
-        "experience_level": "Mid-level / Intermediate",
-        "perks": ["Career development"],
-        "tags": ["Chatbots", "Computer Science", "Generative AI", "LLMs", "Machine Learning", "MVP", "NLP", "Open Source", "Prompt Engineering", "Research"],
-        "apply_url": "https://www.timesofai.tech/2024/02/nlp-generative-ai-machine-learning-engineer-104108000.html"
-      },
+      "Title": "NLP & Generative AI - Machine Learning Engineer",
+      "Company Name": "Zacks Investment Research",
+      "Company Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzaRnB-9PAbTCirl6HM4NqwmWP9xZVRfq53xCrRXQkfzb4NmLgFjvopwlR7DLU6FL7jBRO2RvoU5sDh4WfDl51sHA7wvZ9maxvT7nGykJL6glJQAJVXDIgFW3Swc4edDo9og9nR9TlbWwFUghveLCQVranJPqj5jeISLw8K9ZmqxtcDnIXWPQns6EtSFHA/s1600/Zacks%20Investment%20Research.jpg",
+      "Tags": [
+        "Chatbots",
+        "Computer Science",
+        "Generative AI",
+        "LLMs",
+        "Machine Learning",
+        "MVP",
+        "NLP",
+        "Open Source",
+        "Prompt engineering",
+        "Research"
+      ],
+      "Perks": ["Career development"],
+      "Country": "Remote",
+      "Type": ["Full Time"],
+      "Experience": "Mid-level / Intermediate",
+      "Salary": "USD 100K - 200K",
+      "Regions": "Remote",
+      "Location": "",
+      "Apply URL": "https://www.timesofai.tech/2024/02/nlp-generative-ai-machine-learning-engineer-104108000.html"
+    },
     {
-  "id": "104108001",
-  "title": "Data Engineer",
-  "location": "Garching near Munich, Germany",
-  "country": "Germany",
-  "salary": "EUR 60K - 117K *",
-  "type": ["Full Time", "Contract"],
-  "active": false,
-  "expiration_date": "2024-03-22",
-  "company": {
-    "name": "European Southern Observatory",
-    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb5XqkBL02iSZ1mujxMg6VpDq7WD2C3dVZlEPe-FeVrIuyo9_GPQp4nKidmvc0BmRM5yslteW_VNrfDVvM9TcKP9dQzcOan8Fk9zGlhxG9h4yLOAVrKpVz0gliQdy4zIzlfwBhdCUQDyqGy0j4eo8lUdDAHvI9HW1clm4u2lcPGjX87aN4not-tE1zohCs/s128/European%20Southern%20Observatory.jpg"
-  },
-  "posted_date": "2024-02-24",
-  "experience_level": "Mid-level / Intermediate",
-  "perks": ["Career development", "Competitive pay", "Flex hours", "Startup environment"],
-  "tags": ["Architecture", "Computer Science", "Dataflow", "Data governance", "Data management", "Data pipelines", "Data quality", "ELT", "Engineering ETL", "NoSQL", "Pipelines", "Python", "RDBMS"],
-  "apply_url": "https://www.timesofai.tech/2024/02/data-engineer-104108001.html"
-},
-{
-    "id": "104108002",
-    "title": "Doctoral Researcher (m/f/div) in Automated Processing of Bioimages",
-    "location": "Jena, Germany",
-    "country": "Germany",
-    "salary": "EUR 36K - 39K *",
-    "type": ["Full Time"],
-    "active": false,
-    "expiration_date": "2024-03-31",
-    "company": {
-      "name": "Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)",
-      "logo": "https://ai-jobs.net/media/cache/f4/b6/f4b653e8aa57ce006a34b586723dafc8.jpg"
-    },
-    "posted_date": "2024-03-06",
-    "experience_level": "Entry-level / Junior",
-    "perks": ["Career development"],
-    "tags": ["Bioinformatics", "Biology", "Classification", "Computer Science", "Machine Learning", "Physics", "Research"],
-    "apply_url": "https://www.timesofai.tech/2024/03/Doctoral-Researcher-mfdiv-in-Automated-Processing-of-Bioim-eng-104108002.html"
-  },
-  {
-    "id": "104108003",
-    "title": "Research Scholar (Technical Research)",
-    "location": "Hybrid; Oxford, UK",
-    "country": "United Kingdom",
-    "salary": "USD 75K - 95K *",
-    "type": ["Full Time"],
-    "active": false,
-    "expiration_date": "2024-03-17",
-    "company": {
-      "name": "Centre for the Governance of AI",
-      "logo": "https://ai-jobs.net/media/cache/56/94/569424f6bf0026eb1fd7b986bf2e553c.jpg"
-    },
-    "posted_date": "2024-03-7",
-    "experience_level": "Entry-level / Junior",
-    "perks": ["Career development", "Competitive pay", "Conferences", "Flex hours", "Flex vacation", "Gear", "Health care", "Insurance", "Parental leave", "Team events"],
-    "tags": ["AI governance", "Anthropic", "Computer Science", "Economics", "NeurIPS", "OpenAI", "Open Source", "Privacy", "Research", "Security"],
-    "apply_url": "https://www.timesofai.tech/2024/03/research-scholar-technical-research-104108003.html"
-  },
-  {
-    "id": "104108004",
-    "title": "HPC Engineer (x/f/m) - DACH",
-    "location": "Remote, Germany",
-    "country": "Germany",
-    "salary": "EUR 68K - 75K per year",
-    "type": ["Full Time"],
-    "active": true,
-    "expiration_date": "2024-04-30",
-    "company": {
-      "name": "Meshcapade GmbH",
-      "logo": "https://ai-jobs.net/media/cache/e4/1d/e41df9bde00d6a7149766b5b481b3a2c.jpg"
-    },
-    "posted_date": "2024-03-07",
-    "experience_level": "Mid-level / Intermediate",
-    "perks": ["Career development", "Competitive pay", "Fitness / gym", "Flex hours", "Team events", "Wellness"],
-    "tags": ["Ansible", "AWS", "Computer Science", "Computer Vision", "Deep Learning", "Docker", "Engineering", "GCP", "Git", "GPU", "HPC", "InfiniBand", "Kubernetes", "Linux", "Machine Learning", "MLOps", "Model training", "NVLink", "Puppet", "Python", "PyTorch", "Research", "TensorFlow", "Weka"],
-    "apply_url": "https://www.timesofai.tech/2024/03/hpc-engineer-104108004.html"
-  },
-  {
-    "id": "104108005",
-    "title": "Lead Data Engineer – EU Reporting & Analytics",
-    "location": "Hyderabad",
-    "country": "India",
-    "salary": "USD 125K - 194K *",
-    "type": ["Full Time"],
-    "active": true,
-    "expiration_date": "2024-04-30",
-    "company": {
-      "name": "Bristol Myers Squibb",
-      "logo": "https://ai-jobs.net/media/cache/e3/45/e34577e14457bb0c1c56c6f6509ac0f2.jpg"
-    },
-    "posted_date": "2024-03-05",
-    "experience_level": "Senior-level / Expert",
-    "perks": ["Career development", "Team events"],
-    "tags": ["AWS", "CI/CD", "Data warehouse", "Data Warehousing", "DevOps", "EC2", "Engineering", "Excel", "Lambda", "Pharma", "Privacy", "Python", "RDBMS", "Redshift", "Security", "SQL", "Tableau"],
-    "apply_url": "https://www.timesofai.tech/2024/03/Lead-Data-Engineer-104108005.html"
-  },
-  {
-    "id": "104108006",
-    "title": "AI Architect in Technology",
-    "location": "Croatia - Remote",
-    "country": "Croatia",
-    "salary": "USD 137K - 266K *",
-    "type": ["Full Time", "Contract"],
-    "active": true,
-    "expiration_date": "2024-04-30",
-    "company": {
-      "name": "Xenon7",
-      "logo": "https://ai-jobs.net/media/cache/38/ab/38abeac9d4db8b98148de74c609a160a.jpg"
-    },
-    "posted_date": "2024-03-05",
-    "experience_level": "Senior-level / Expert",
-    "perks": ["Career development"],
-    "tags": ["Architecture", "Chatbots", "Computer Vision", "Data analysis", "Data Mining", "Deep Learning", "Machine Learning", "Mathematics", "NLP", "PhD", "Predictive modeling", "Reinforcement Learning", "Research", "Robotics", "Security", "Statistics"],
-    "apply_url": "https://www.timesofai.tech/2024/03/ai-architect-in-technology-104108006.html"
-  }
+      "Title": "Data Engineer",
+      "Company Name": "European Southern Observatory",
+      "Company Logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb5XqkBL02iSZ1mujxMg6VpDq7WD2C3dVZlEPe-FeVrIuyo9_GPQp4nKidmvc0BmRM5yslteW_VNrfDVvM9TcKP9dQzcOan8Fk9zGlhxG9h4yLOAVrKpVz0gliQdy4zIzlfwBhdCUQDyqGy0j4eo8lUdDAHvI9HW1clm4u2lcPGjX87aN4not-tE1zohCs/s128/European%20Southern%20Observatory.jpg",
+      "Tags": [
+        "Architecture",
+        "Computer Science",
+        "Dataflow",
+        "Data governance",
+        "Data management",
+        "Data pipelines",
+        "Data quality",
+        "ELT",
+        "Engineering ETL",
+        "NoSQL",
+        "Pipelines",
+        "Python",
+        "RDBMS"
+      ],
+      "Perks": ["Career development", "Competitive pay", "Flex hours", "Startup environment"],
+      "Country": "Germany",
+      "Type": ["Full Time", "Contract"],
+      "Experience": "Mid-level / Intermediate",
+      "Salary": "EUR 60K - 117K",
+      "Regions": "Europe",
+      "Location": "Garching near Munich",
+      "Apply URL": "https://www.timesofai.tech/2024/02/data-engineer-104108001.html"
+    }
   ]
 }
