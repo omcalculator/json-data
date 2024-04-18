@@ -6,7 +6,7 @@
         "location": "Anywhere",
         "country": "Any",
         "salary": "USD 100K - 200K *",
-        "type": ["Remote", "Full-time"],
+        "type": ["Remote", "Full Time"],
         "active": false,
         "expiration_date": "2024-03-02",
         "company": {
